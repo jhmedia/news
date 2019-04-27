@@ -1,0 +1,2 @@
+export const DISPATCH_ACTION = 'DISPATCH_ACTION'
+export const DISPATCH_SAGA = 'DISPATCH_SAGA'
